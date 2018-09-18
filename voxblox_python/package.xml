@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>voxblox_python</name>
+  <version>0.0.0</version>
+  <description>Voxblox Tango interface</description>
+
+  <author email="genemerewether@gmail.com">Gene Merewether</author>
+
+  <maintainer email="genemerewether@gmail.com">Gene Merewether</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+  <depend>voxblox</depend>
+</package>
